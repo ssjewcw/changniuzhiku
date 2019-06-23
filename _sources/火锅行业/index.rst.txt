@@ -1,0 +1,23 @@
+.. Stock documentation master file, created by
+   sphinx-quickstart on Sat Jun 22 07:23:58 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+火锅行业
+=================================
+
+.. toctree::
+   :maxdepth: 5
+   :caption: 目录:
+
+   火锅行业.md
+   海底捞.md
+   颐海国际.md
+   天味食品.md
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
