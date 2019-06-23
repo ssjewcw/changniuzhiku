@@ -10,9 +10,10 @@
    :maxdepth: 1
    :caption: 智库:
 
-   关于和联系我 <关于和联系我.md>
+   关于和联系我 <关于和联系我/index.rst>
    火锅行业 <火锅行业/index.rst>
 
+   
 Indices and tables
 ==================
 
