@@ -11,7 +11,9 @@
    :caption: 智库:
 
    关于和联系我 <关于和联系我/index.rst>
+   行业研究模型 <行业研究模型/行业研究模型.md>
    火锅行业 <火锅行业/index.rst>
+   
 
    
 Indices and tables
