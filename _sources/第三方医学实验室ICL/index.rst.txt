@@ -3,14 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-火锅行业
+第三方医学实验室ICL
 =================================
 
 .. toctree::
    :maxdepth: 5
    :caption: 目录:
 
-   火锅行业.md
-   天味食品.md
-   行业纵横.md
+   金域医学.md
    
