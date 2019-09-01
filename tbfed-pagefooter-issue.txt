@@ -1,0 +1,27 @@
+ /*
+	  str += '\n\n<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">'+
+      '\n\n<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>'+
+      '\n\n<div id="gitalk-container"></div>'+
+	  '\n\n<script>var gitalk = new Gitalk({"clientID": "f54201d7d5d686604572","clientSecret": "b3408aeceaf5bd37d2cb8481ba0100c1e32f688d","repo": "changniuzhiku","owner": "ssjewcw","admin": ["ssjewcw"],"id": window.location.pathname,"distractionFreeMode": false});gitalk.render("gitalk-container"); </script>'
+		*/
+		/*"Vssue Dev"*/
+	  str += '\n\n<link rel="stylesheet" href="https://unpkg.com/vssue/dist/vssue.min.css">'
+	  str += '<div id="vssue"></div>'
+	  str += '<script src="https://unpkg.com/vue/dist/vue.runtime.min.js"></script>'
+	  str += '<script src="https://unpkg.com/vssue/dist/vssue.github.min.js"></script>'
+	  str += '<script>\
+    new Vue({\
+      el: "#vssue",\
+      render: h => h("Vssue", {\
+        props: {\
+          title: window.location.pathname,\
+          options: {\
+            owner: "ssjewcw",\
+            repo: "changniuzhiku",\
+            clientId: "f54201d7d5d686604572",\
+            clientSecret: "b3408aeceaf5bd37d2cb8481ba0100c1e32f688d",\
+          },\
+        }\
+      })\
+    })\
+  </script>'
