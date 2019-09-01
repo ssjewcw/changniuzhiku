@@ -1,7 +1,7 @@
 {
   "title": "长牛智库",
   "author": "不二山人2016",
-  "description": "积累投资中的点滴，投资的第二大脑",
+  "description": "投资的第二大脑",
   "language": "zh-hans",
   "styles": {
     "website": "./public-repertory/css/gitbook-configure.css"
@@ -17,6 +17,7 @@
     "expandable-chapters",
     "splitter",
     "-sharing",
+	"pageview-count",
     "donate",
     "tbfed-pagefooter",
     "anchor-navigation-ex"
@@ -42,7 +43,7 @@
     },
     "donate": {
       "button": "打赏",
-      "wechatText": "微信打赏",
+      "wechatText": "",
       "wechat": "https://github.com/ssjewcw/mypics/blob/master/open/wx-pay.jpg?raw=true"
     },
     "prism": {
@@ -58,6 +59,7 @@
       "modify_label": "该文件修订时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
+	
     "anchor-navigation-ex": {
       "showLevel": false
     }
