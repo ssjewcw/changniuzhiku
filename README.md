@@ -30,7 +30,7 @@
 
 微信公众号：不二山人2016
 
-![](https://raw.githubusercontent.com/ssjewcw/mypics/master/img/qrcode_for_gh_9612897b3916_344.jpg)
+![](qrcode_for_gh_9612897b3916_344.jpg)
 
 
 
